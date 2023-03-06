@@ -1,0 +1,10 @@
+authorityKeyIdentifier=keyid,issuer
+basicConstraints=CA:FALSE
+keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment
+subjectAltName = @alt_names
+
+[alt_names]
+DNS.1 = www.globomantics.com
+DNS.2 = tls.globomantics.com
+IP.1 = 10.128.50.83
+IP.2 = 172.31.24.80
