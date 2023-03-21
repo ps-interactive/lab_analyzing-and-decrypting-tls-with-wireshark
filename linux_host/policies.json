@@ -1,7 +1,7 @@
 {
   "policies": {
     "Certificates": {
-      "Install": ["GlobomanticsCA.pem", "/home/ross/GlobomanticsCA.pem"]
+      "Install": ["GlobomanticsCA.pem", "/home/pslearner/lab/certificates/GlobomanticsCA.pem"]
     }
   }
 }
